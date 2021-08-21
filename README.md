@@ -1,6 +1,6 @@
 Olá! Eu sou a Jéssica Batista.
-- 🔭 I’m currently working  com manutenção de  Hardwares entre outros
-- 🌱 I’m currently learning JavaScript, CSS3 e HTML5
+- 🔭 I’m currently working  com manutenção de  Hardwares entre outros.
+- 🌱  Em constante aprendizado. JavaScript, CSS3 e HTML5.
 - 😄 Pronouns: Ela/dela
 
  <div>
