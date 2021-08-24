@@ -18,11 +18,7 @@ Olá! Eu sou a Jéssica Batista.
  
  ##
  
- <div>
-  ![Snake animation](https://github.com/Jehsbatista
-  
-  
- </div>
+
  
  
  
