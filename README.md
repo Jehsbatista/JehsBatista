@@ -16,7 +16,10 @@ Olá! Eu sou a Jéssica Batista.
  
  </div>
  
- ##
+ ###### Bizness
+
+- :email: jessicabatistateixeiraa@gmail.com
+
  
 
  
