@@ -1,4 +1,4 @@
-<h1>Oie, sou a Jéssica Batista! 🚀   </h1>
+<h1>Olá, sou a Jéssica Batista!</h1>
 <h2 align="center">Hello, World! :earth_americas:</h2>
 
 
