@@ -6,7 +6,7 @@
 
 - 🔭  Trabalhando atualmente com manutenção de Hardware entre outros.
 - 🌱  Em constante aprendizado. JavaScript, CSS3 e HTML5.
-- 😄 Pronouns: Ela/dela
+- 😄 Pronouns: Ela/dela  /  She
 
  <div style="display: inline_block"><br>
  <img align="center" alt="Jehs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
