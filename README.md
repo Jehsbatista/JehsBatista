@@ -4,7 +4,7 @@
 
 
 
-- 🔭  Trabalhando atualmente com manutenção de Hardware entre outros.
+- 🔭  Estagiária na Globo :) .
 - 🌱  Em constante aprendizado. JavaScript, CSS3 e HTML5.
 - 😄 Pronouns: Ela/dela  /  She
 
