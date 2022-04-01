@@ -4,7 +4,7 @@
 
 
 
-- 🔭  Estagiária na Globo :) .
+- 🔭  Estagiária Front End na Globo :) .
 - 🌱  Em constante aprendizado. JavaScript, CSS3 e HTML5.
 - 😄 Pronouns: Ela/dela  /  She
 
