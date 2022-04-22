@@ -6,7 +6,7 @@
 
 - Estagiária de Tecnologia e  Estratégia :) 
 - Em constante aprendizado. 
--Pronouns: Ela/dela  /  She
+
 
  <div style="display: inline_block"><br>
  <img align="center" alt="Jehs-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
