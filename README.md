@@ -4,7 +4,7 @@
 
 
 
-- Estagiátia de Tecnologia e  Estratégia :) 
+- Estagiária de Tecnologia e  Estratégia :) 
 - Em constante aprendizado. 
 -Pronouns: Ela/dela  /  She
 
