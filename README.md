@@ -4,7 +4,7 @@
 
 
 
-- Estagiária de Tecnologia e  Estratégia :) 
+- Estagiária  Dev.  Android  - G1
 - Em constante aprendizado. 
 
 
