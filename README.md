@@ -4,7 +4,7 @@
 
 
 
-- Estagiária  Dev.  Android  - G1
+- Dev.  Android  - G1
 - Em constante aprendizado. 
 
 
